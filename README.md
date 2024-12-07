@@ -121,7 +121,7 @@ Join our community to collaborate and share insights:
 
 - **Slack**: [Join Here](https://join-slack-link.com)
 - **Twitter**: [Follow Us](https://twitter.com/isrn_project)
-- **Forum**: [ISRN Discussions](https://github.com/your-repo/ISRN/discussions)
+- **Forum**: [ISRN Discussions](https://github.com/ObiwanKenobee/ISRN/discussions)
 
 ---
 
